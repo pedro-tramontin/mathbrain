@@ -1,5 +1,3 @@
-# MathBrain
-
 A simple, distraction-free tool to practice mental math.
 
 ## Description
@@ -27,3 +25,7 @@ Perfect for:
 - Anyone who wants to kill time productively without a complex game.
 
 Download MathBrain today and start exercising your mind!
+
+## Privacy policy
+
+Can be found [here](./privacy_policy.md)
